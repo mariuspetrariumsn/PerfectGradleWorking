@@ -1,0 +1,1 @@
+Utility for drawing the grid of the world.
